@@ -80,8 +80,8 @@ Contributions are welcome! If you have suggestions for improvements or want to r
 
 For any questions or inquiries, please reach out:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/saurabhshirbhate)
+- **Email:** saurabhshirbhate.96@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/saurabhshirbhate)
 
 ---
 
