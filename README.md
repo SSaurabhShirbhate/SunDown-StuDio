@@ -9,7 +9,6 @@ Welcome to my portfolio website! This project showcases some of my featured work
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
